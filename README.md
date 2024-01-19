@@ -3,6 +3,10 @@
  Maintenant que votre application de bière est opérationnelle, nous allons ajouter le service worker pour que notre
   site devienne une PWA.
 
+## attendu 
+
+https://kferrandonfulbert.github.io/pwa-03-serviceWorker/
+
 ## Service Worker
 Le Service Worker (worker.js) fournit une mise en cache des ressources statiques pour améliorer la rapidité de chargement et permettre une utilisation hors ligne. Voici comment intégrer le Service Worker à votre projet :
 
